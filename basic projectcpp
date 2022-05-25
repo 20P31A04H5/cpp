@@ -1,0 +1,27 @@
+//program1
+#include <iostream>
+using namespace std;
+
+int main() 
+{    
+    cout << "Size of char: " << sizeof(char) << " byte" << endl;
+    cout << "Size of int: " << sizeof(int) << " bytes" << endl;
+    cout << "Size of float: " << sizeof(float) << " bytes" << endl;
+    cout << "Size of double: " << sizeof(double) << " bytes" << endl;
+
+    return 0;
+}
+
+
+//program2
+#include<iostream>
+using namespace std;
+int main()
+{
+double n1,n2,product
+cout<<"enter the numbers:";
+cin>>n1>>n2;
+product=n1*n2
+cout<<"product:"<<product;
+return 0;
+}
